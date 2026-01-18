@@ -1,2 +1,0 @@
-# VRC
-VRC Adventures Blog
